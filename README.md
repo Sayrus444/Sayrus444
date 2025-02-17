@@ -66,19 +66,6 @@
 
 ---
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://vk.com/id49562802" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="40" height="40" alt="VK" />
-    </a>
-    <a href="https://t.me/SayRus44" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
 </p>
 <h2>Test Artifacts </h2>
 <p> 
@@ -101,6 +88,7 @@
 <a href= "mailto:say.rus44@mail.ru"><img src="https://play-lh.googleusercontent.com/yVc-bdEeogx-PWeUXenc8Ugfm-t-hsIsFZ-IbzM-JB4il9qL-bkR4LsiasTuDM2Bag" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/SayRus44"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:say.rus4444@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href="https://vk.com/id49562802" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="40" height="40" alt="VK" /></a>
 </p>
 
 <!-- ### 💻 Пройденные курсы:
