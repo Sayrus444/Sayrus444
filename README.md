@@ -77,7 +77,7 @@
 <li>  <a href="https://github.com/Sayrus444/API">Тестирование API</a>  </li>
 <li>  <a href="https://github.com/Sayrus444/Database"> Работа с базами данных</a>   </li>
 <li> <a href="https://github.com/Sayrus444/Mobile">Тестирование мобильных приложений</a>  </li>
-<li> <a href="https://github.com/Sayrus444/git_bash"> Работа с git и bash </a>  </li>
+<li> <a href="https://github.com/Sayrus444/git_bash"> Работа с bash </a>  </li>
 </ul>
 
 ---
