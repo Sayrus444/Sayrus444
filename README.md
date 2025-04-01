@@ -11,7 +11,7 @@
 ---
 
 ### 📝 Резюме:
-  <a href="https://disk.yandex.ru/i/WmKSV1b3wUgTYw">My CV</a>  </li>
+  <a href="[https://disk.yandex.ru/i/WmKSV1b3wUgTYw](https://disk.yandex.ru/i/TzNIopaxOa6pVQ)">My CV</a>  </li>
 
 ---
 
